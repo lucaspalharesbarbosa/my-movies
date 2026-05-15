@@ -12,4 +12,3 @@ spec:
   type: website
   lifecycle: production
   owner: group:default/squad-super-rag
-  domain: domain:default/claro-ia-corporativa
